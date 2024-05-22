@@ -9,9 +9,7 @@ Data Set source : https://scholar.cu.edu.eg/?q=afahmy/pages/dataset
 
 <img width="216" alt="image" src="https://github.com/hajira11/Breast-Cancer-Detection-Mobile-Net-V2-and-GANs-/assets/28599955/fe63fcd0-21b5-4b74-a9c8-5c93b035a39a">
 
-<img width="216" alt="image" src="https://github.com/hajira11/Breast-Cancer-Detection-Mobile-Net-V2-and-GANs-/assets/28599955/32b7c7d4-de42-4302-a21f-6180479f1065">
-
-<img width="204" alt="image" src="https://github.com/hajira11/Breast-Cancer-Detection-Mobile-Net-V2-and-GANs-/assets/28599955/991f9f88-2a11-4bc6-8ebe-177054529478">
+<img width="204" alt="image" src="https://github.com/hajira11/Breast-Cancer-Detection-Mobile-Net-V2-and-GANs-/assets/28599955/c25d5f90-e2d2-4b2c-9a0e-a39cf06affa8">
 
 
 Results:
