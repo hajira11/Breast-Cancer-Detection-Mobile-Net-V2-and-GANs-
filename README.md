@@ -1,3 +1,7 @@
 #GANs for data augmentation in Breast Cancer detection system
 
-Healthcare data is not publically available at a large extent (mostly) due to privacy concerns which has led to utilization of minimal data for research purposes. In this project, the efforts were to increase the breast cancer ultrasound image count to check the accuracy and prediction of breast cancer detection model (MobileNet V2). 
+Medical images, in general, are hard to obtain due to privacy concerns. Medical data collection is a time-consuming and costly process that necessitates the participation of researchers and radiologists. For these reasons, researchers have come up with data augmentation techniques such as image rotation, image flipping and image scaling. However, the variations using these techniques are relatively low, thus paving the need for image generation using deep learning techniques
+
+Through this project, it was successfully demonstrated that images generated using Deep Convolutional GAN (DCGAN) can indeed improve the performance of a system comprising of MobileNet V2 model.
+
+Data Set source : https://scholar.cu.edu.eg/?q=afahmy/pages/dataset
